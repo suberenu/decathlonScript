@@ -1,0 +1,16 @@
+{
+	"email" : {
+		"host": "WRITE HERE THE EMAIL HOST",
+		"from": "WRITE HERE THE SENDER EMAIL",
+		"from": "WRITE HERE THE EMAIL PASSWORD",
+		"to": "WRITE HERE THE RECEIVER EMAIL"
+	},
+	"products": [
+		{
+			"productId": "WRITE HERE THE PRODUCTID" ,
+			"catalogRefIds": "WRITE HERE THE CATALOGREFIDS",
+			"name": "WRITE HERE THE PRODUCT NAME",
+			"outOfStock": true
+		}
+	]
+}
